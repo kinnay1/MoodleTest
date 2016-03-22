@@ -1,0 +1,23 @@
+table{
+	border: 3px solid black;
+	border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+
+td{
+    border: 1px solid black;
+}
+.titre{
+	background : #CCC0DA;
+}
+.assign{
+	background : #B6DDE8;
+}
+.CF{
+	background : #FCD5B4;
+}
+.quiz{
+	background : #8DB4E3;
+}
+.Choix{
+	background : #D7E4BC;
+}
